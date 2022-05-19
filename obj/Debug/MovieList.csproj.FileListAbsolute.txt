@@ -1,0 +1,6 @@
+C:\Users\Sandra Barbosa Boni\Desktop\Cursos de programação\GitHub\EstudosCSHARP\Composicao\Composicao\bin\Debug\Composicao.exe.config
+C:\Users\Sandra Barbosa Boni\Desktop\Cursos de programação\GitHub\EstudosCSHARP\Composicao\Composicao\bin\Debug\Composicao.exe
+C:\Users\Sandra Barbosa Boni\Desktop\Cursos de programação\GitHub\EstudosCSHARP\Composicao\Composicao\bin\Debug\Composicao.pdb
+C:\Users\Sandra Barbosa Boni\Desktop\Cursos de programação\GitHub\EstudosCSHARP\Composicao\Composicao\obj\Debug\Composicao.exe
+C:\Users\Sandra Barbosa Boni\Desktop\Cursos de programação\GitHub\EstudosCSHARP\Composicao\Composicao\obj\Debug\Composicao.pdb
+C:\Users\Sandra Barbosa Boni\Desktop\Cursos de programação\GitHub\EstudosCSHARP\Composicao\Composicao\obj\Debug\MovieList.csprojResolveAssemblyReference.cache
